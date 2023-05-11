@@ -1,16 +1,20 @@
-### Hi there 👋
+<li>🤓 <em><strong>Olá! sou a Ariane Paula.</strong></em></li>
+<li>📚 <strong>Estudante de Desenvolvimento Web Full Stack,em processo de formação na Growdev.</strong</li>
+<li>💼 Minhas Experiências profissionais anteriores,foram diretamente com o público e atendimento remoto.</li>
+<li>🕹️🎲 Hobbies: Viajar, Cinema, Parques, Correr, Meditar. </li>
+ <br>
+ <div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulaari21&show_icons=true&theme=synthwave"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaari21&layout=compact&theme=synthwave"/>
+ </div>
+  <br>
+  <em><strong>❤️ Vamos nos conectar:</em></strong>
+  
+<br> [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arianedevfullstack) [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariane_paulaa/)
 
-<!--
-**paulaari21/paulaari21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li>🎯<em><strong> Estudando atualmente:</strong></em></li>  
+  <div>
+ <br><img height="50" widht"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> 
+   <img height="50" widht"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+    <img height="50" widht"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </div> 
