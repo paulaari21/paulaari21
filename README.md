@@ -1,7 +1,5 @@
 <li>🤓 <em><strong>Olá! sou a Ariane Paula.</strong></em></li>
-<li>📚 <strong>Estudante de Desenvolvimento Web Full Stack,em processo de formação na Growdev.</strong</li>
-<li>💼 Minhas Experiências profissionais anteriores,foram diretamente com o público e atendimento remoto.</li>
-<li>🕹️🎲 Hobbies: Viajar, Cinema, Parques, Correr, Meditar. </li>
+<li>📚 <strong>Desenvolvimento Web! em processo de formação.</strong</li>
  <br>
  <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulaari21&show_icons=true&theme=synthwave"/>
